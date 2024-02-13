@@ -3,7 +3,7 @@
 이 곳은 동국대학교 생명과학과 데이터생물학 및 정밀의학 연구실의 Github team page입니다!
 환영합니다 :D
 
-[MinoryLab wiki 바로가기]()
+[MinoryLab wiki 바로가기](https://github.com/DGU-minory-lab/Lab_first_step/wiki)
 
 <!--
 
